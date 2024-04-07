@@ -1,181 +1,195 @@
-### Hi there 👋
+## Hi there 👋
 
-### Languages and Tools:
+## 🥁 Languages and Tools:
 
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
+      src="https://skillicons.dev/icons?i=html"
+      alt="html"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
+      src="https://skillicons.dev/icons?i=css"
+      alt="css"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      src="https://skillicons.dev/icons?i=typescript"
       alt="typescript"
       width="40"
       height="40"
     />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      src="https://skillicons.dev/icons?i=javascript"
       alt="javascript"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      src="https://skillicons.dev/icons?i=nextjs"
       alt="nextjs"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      src="https://skillicons.dev/icons?i=vite"
+      alt="vite"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://skillicons.dev/icons?i=react"
       alt="react"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+      src="https://skillicons.dev/icons?i=vuejs"
       alt="vuejs"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://skillicons.dev/icons?i=nodejs"
       alt="nodejs"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+      src="https://skillicons.dev/icons?i=nestjs"
       alt="nestjs"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://skillicons.dev/icons?i=express"
       alt="express"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+      src="https://skillicons.dev/icons?i=rails"
+      alt="rails"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://skillicons.dev/icons?i=prisma"
+      alt="prisma"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://skillicons.dev/icons?i=graphql"
       alt="graphql"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+      src="https://skillicons.dev/icons?i=apollo"
+      alt="apollo"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://skillicons.dev/icons?i=jest"
       alt="jest"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      src="https://skillicons.dev/icons?i=vitest"
+      alt="vitest"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://skillicons.dev/icons?i=redux"
       alt="redux"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
+      src="https://skillicons.dev/icons?i=pinia"
+      alt="pinia"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      src="https://skillicons.dev/icons?i=sass"
       alt="sass"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40" />
-  </a>
-  <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"
+      src="https://skillicons.dev/icons?i=tailwind"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://skillicons.dev/icons?i=materialui"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://skillicons.dev/icons?i=gulp"
       alt="gulp"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
+      src="https://skillicons.dev/icons?i=webpack"
       alt="webpack"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
+      src="https://skillicons.dev/icons?i=babel"
       alt="babel"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      src="https://skillicons.dev/icons?i=git"
       alt="git"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      src="https://skillicons.dev/icons?i=firebase"
       alt="firebase"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+      src="https://skillicons.dev/icons?i=vercel"
+      alt="vercel"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://skillicons.dev/icons?i=gcp"
       alt="gcp"
       width="40"
       height="40"
     />
-  </a>
+    <img
+      src="https://skillicons.dev/icons?i=aws"
+      alt="aws"
+      width="40"
+      height="40"
+    />
 </p>
+
+## 📈 Status
+
+<p align="left">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakushun&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hakushun" />
+</p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakushun" alt="hakushun" /></a> </p>

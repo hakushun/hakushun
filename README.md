@@ -57,13 +57,12 @@
 | | Repo | What it exercises |
 |:---:|:---|:---|
 | 🌐 | [**lt_i18n_todo**](https://github.com/hakushun/lt_i18n_todo) | **Locale + TZ correctness** when state, formatting, and UX must stay aligned · [demo](https://lt-i18n-todo.vercel.app) |
-| 🎬 | [**dm_picture-in-picture**](https://github.com/hakushun/dm_picture-in-picture) | **Picture-in-Picture API** — parallel video + reading; focus and lifecycle edge cases · [demo](https://dm-picture-in-picture.vercel.app) |
-| ✅ | [**vc_attendance-list**](https://github.com/hakushun/vc_attendance-list) | **Real-world scheduling** — forms, lists, and constraints for a community app |
-| 📚 | [**vc_recommend-books**](https://github.com/hakushun/vc_recommend-books) | **Sharing + discovery** — modeling posts people reuse |
-| 🤖 | [**ai-dev-starter**](https://github.com/hakushun/ai-dev-starter) | **Agent-ready** FE starter (tooling + Cursor layout) — reproducible quality gates; **not employer infra** |
-
-More: [**dm_graphql-apollo**](https://github.com/hakushun/dm_graphql-apollo) · [**lt_sample-custom-hooks**](https://github.com/hakushun/lt_sample-custom-hooks) · other `dm_*` / `lt_*`
-
+| 🧪 | [**dm_i18n-rtl**](https://github.com/hakushun/dm_i18n-rtl) | **RTL + i18n edge cases** — layout, direction, and component assumptions under non-LTR languages *(based on real product requests)* |
+| ♿ | [**dm_keyboard-a11y**](https://github.com/hakushun/dm_keyboard-a11y) | **Keyboard accessibility** — focus management and operability without mouse *(derived from real user feedback)* |
+| 🗣️ | [**dm_speech-contents**](https://github.com/hakushun/dm_speech-contents) | **Speech + content UX** — exploring voice interaction patterns and accessibility *(based on real improvement needs)* |
+| 🎻 | [**vc_attendance-list**](https://github.com/hakushun/vc_attendance-list) | **Real-world scheduling system** — used in an orchestra group; handles constraints, participation tracking, and practical UX tradeoffs |
+| 📚 | [**vc_recommend-books**](https://github.com/hakushun/vc_recommend-books) | **Internal app development** — built to share what colleagues read and their thoughts; designed to encourage lightweight contributions and used for onboarding |
+| 🤖 | [**ai-dev-starter**](https://github.com/hakushun/ai-dev-starter) | **Agent-ready FE starter** — reproducible quality gates and AI-assisted workflows *(independent from employer systems)* |
 ---
 
 ## ✍️ Writing · 🔗 Contact

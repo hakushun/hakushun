@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I work as a professional frontend engineer.
+
+## ✍️ Tech blog
+
+I write technical articles on [Zenn](https://zenn.dev/hakushun).
+
 ## 🥁 Languages and Tools:
 
 <p align="left">

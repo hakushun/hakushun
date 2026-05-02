@@ -2,7 +2,7 @@
 
 ## 🥁 Languages and Tools:
 
-<p align="left">
+<p align="left" style="display: flex; gap: 4px; flex-wrap: wrap;">
     <img
       src="https://skillicons.dev/icons?i=html"
       alt="html"
